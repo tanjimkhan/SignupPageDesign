@@ -1,0 +1,92 @@
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+body {
+	background: url('../img/bg.jpg')no-repeat;
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.container {
+
+    width: 1140px;
+    margin: 10% auto;
+
+}
+
+.content {
+    width: 44%;
+    float: left;
+    margin-right: 11%;
+    margin-top: 7%;
+}
+.login {
+    width: 30%;
+    float: left;
+    background-color: 
+    #049bcc;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 10%;
+}
+h1 {
+
+    color: white;
+    margin-bottom: 10px;
+    font-size: 41px;
+    font-family: roboto;
+
+}
+h3 {
+
+    color: 
+
+    white;
+    margin-bottom: 6px;
+    font-size: 32px;
+
+}
+input{
+
+margin-bottom: 22px;
+
+width: 100%;
+
+padding: 10px;
+}
+
+.btn {
+    padding: 9px 26px;
+    background-color: #0d88c3;
+    border: none;
+    border-radius: 16px;
+    color: white;
+    text-transform: uppercase;
+    transition: 0.4s ease
+}
+.btn:hover{
+ box-shadow: 5px 5px 5px white;
+ cursor: pointer
+}
+
+.btn-2 {
+    padding: 10px 86px;
+    text-align: center;
+    background-color: #3c18ff;
+    border: none;
+    color: white;
+    font-size: 15px;
+    box-shadow: 0px 3px darkblue;
+    transition: 0.4s ease;
+}
+.btn-2:hover{
+ box-shadow: 5px 5px 5px white;
+ cursor: pointer;
+}
+p{color: white;margin-bottom: 10px;}
+
+span {
+    color: lightgreen;
+}
